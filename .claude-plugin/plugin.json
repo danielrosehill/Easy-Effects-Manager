@@ -1,6 +1,6 @@
 {
-  "name": "Easy-Effects-Manager",
-  "version": "0.1.0",
+  "name": "easy-effects-manager",
+  "version": "0.2.0",
   "description": "Manage Easy Effects on Linux: maintain a preset library, install/export presets, bind autoload to specific mics, test input levels, and set up clean voice-dictation chains. Works with Flatpak or native installs. Library location is captured once via the Claude-Controller user-var contract.",
   "homepage": "https://github.com/danielrosehill/Easy-Effects-Manager",
   "author": {
